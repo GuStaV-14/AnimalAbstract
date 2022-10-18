@@ -22,4 +22,9 @@ public abstract class Anmal {
     }
 
     public abstract void sonido();
+    
+    public void saltar(){ System.out.println("esta saltando");}
+
+    public void morder() {
+    }
 }
